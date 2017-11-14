@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+<string name="material_txt">Material is the metaphor</string>
+    <string name="material_sub_txt">A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality,inspired by the study of paper and link,yet technologically advanced and open to imagination and magic.</string>
+    <string name="get_started_txt">GET STARTED</string>
+    <string name="hello_txt">HELLO</string>
+    <string name="grant_txt">GRANT PERMISSIONS</string>
+    <string name="bold_graphic_heading">Bold, graphic, intentional</string>
+    <string name="bold_sub_txt">The foundational elements of print-based design - typography, grids, space, scale, color and use of imagery - guide visual treatments.</string>
+    <string name="motion_heading">Motion provides meaning</string>
+    <string name="motion_sub_txt">Motion respects and reinforces the user as the prime mover.Primary user actions are inflection points that initiate motion,transforming the whole design.</string>
+    <string name="light_heading">Light and Shadow</string>
+    <string name="light_sub_txt">Within the material environment,virtual lights illuminate the scene.Key lights create directional shadows,while ambient light creates soft shadows from all angles.</string>
+    <string name="requist_heading">Requesting permissions was never easier</string>
+    <string name="request_sub_txt">This app needs the camera and storage permission.\nIt\'s only to shadow how permission requests work in this library and we won\'t do anything with the granted permissions.</string>
+
+</resources>
